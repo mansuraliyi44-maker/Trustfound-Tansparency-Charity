@@ -1,5 +1,5 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mansuraliyi44-maker/Trustfound-Transparency-Charity)  
-[![View on DoraHacks](https://img.shields.io/badge/Dorahacks-Project-blue?logo=hackaday)](https://dorahacks.io/buidl/XXXX)
+[![View on DoraHacks](https://img.shields.io/badge/Dorahacks-Project-blue?logo=hackaday)](https://dorahacks.io/buidl. https://dorahacks.io/buidl/32595 )
 ##🌍 Trustfound
 
 ## 📖 Introduction
