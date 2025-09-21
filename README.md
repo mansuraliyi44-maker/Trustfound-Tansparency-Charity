@@ -3,7 +3,7 @@
 ##🌍 Trustfound
 
 ## 📖 Introduction
-Trustfound is a **decentralized donation & transparency platform** built on **Hedera Hashgraph**.  
+Trustfound is a **decentralized donation & transparency platform** built on **Hedera Network**.  
 It helps individuals and organizations donate money, track donations, and ensure **trust and transparency** using the Hedera Consensus Service (HCS) and Hedera Token Service (HTS).  
 
 ## 🚀 Features
@@ -14,7 +14,7 @@ It helps individuals and organizations donate money, track donations, and ensure
 
 ## 🛠️ Tech Stack
 This project uses:
-- **Hedera Hashgraph** (HCS + HTS)  
+- **Hedera Network** (HCS + HTS)  
 - **Solidity / Smart Contracts** (for token logic)  
 - **React / Next.js** (frontend)  
 - **Node.js / Express** (backend)  
