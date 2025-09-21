@@ -1,4 +1,6 @@
-## 🌍 Trustfound
+[![View on GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mansuraliyi44-maker/Trustfound-Transparency-Charity)  
+[![View on DoraHacks](https://img.shields.io/badge/Dorahacks-Project-blue?logo=hackaday)](https://dorahacks.io/buidl/XXXX)
+##🌍 Trustfound
 
 ## 📖 Introduction
 Trustfound is a **decentralized donation & transparency platform** built on **Hedera Hashgraph**.  
