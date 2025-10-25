@@ -15,13 +15,15 @@ It enables users to **donate, track, and verify donations** using Hashgraph tech
 1. Donors send funds to verified charities via HTS.  
 2. Transactions are recorded via HCS for transparency.  
 3. Donors receive a **Proof-of-Donation NFT**.  
-4. Charities provide live updates of fund usage.  
-
+4. Charities provide live updates of fund usage. 
 ## 🧱 Architecture
-- **Frontend:** React / Next.js  
-- **Backend:** Node.js / Express  
-- **Blockchain:** Hedera (HCS + HTS)  
-- **Smart Contracts:** Solidity  
+> 🔧 Note: Some of these components are still under development.
+
+- **Frontend:** React / Next.js (implemented ✅)
+- **Backend:** Node.js / Express (in progress ⚙️)
+- **Blockchain:** Hedera (HCS + HTS) (coming soon 🚀)
+- **Smart Contracts:** Solidity (planned 🧩)
+ 
 
 ## 🧩 Future Improvements
 - DAO governance for community oversight  
