@@ -21,7 +21,7 @@ It enables users to **donate, track, and verify donations** using Hashgraph tech
 
 - **Frontend:** React / Next.js (implemented ✅)
 - **Backend:** Node.js / Express (in progress ⚙️)
-- **Blockchain:** Hedera (HCS + HTS) (coming soon 🚀)
+- **Hashgraph:** Hedera (HCS + HTS) (coming soon 🚀)
 - **Smart Contracts:** Solidity (planned 🧩)
  
 
