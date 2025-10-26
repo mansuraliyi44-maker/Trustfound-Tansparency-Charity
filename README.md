@@ -36,23 +36,3 @@ git clone https://github.com/mansuraliyi44-maker/Trustfound.git
 cd Trustfound
 npm install
 npm start
-## 📑 **TABLE OF CONTENTS (Clickable Links)**
-
-1. [Introduction](#introduction)  
-2. [Problem Statement](#problem-statement)  
-3. [Solution Overview](#solution-overview)  
-4. [Why TrustFound?](#why-trustfound)  
-5. [Architecture & Technology Stack](#architecture--technology-stack)  
-6. [Core Features](#core-features)  
-7. [Future of TrustFound Charity](#future-of-trustfound-charity)  
-8. [Roadmap & Timeline](#roadmap--timeline)  
-9. [Impact Metrics (KPIs)](#impact-metrics-kpis)  
-10. [Team & Roles](#team--roles)  
-11. [Partnerships & Collaborations](#partnerships--collaborations)  
-12. [Smart Contract Transparency](#smart-contract-transparency)  
-13. [Donation Wallets & Token Support](#donation-wallets--token-support)  
-14. [DAO Governance & Community](#dao-governance--community)  
-15. [Contact & Verification](#contact--verification)  
-16. [Acknowledgements](#acknowledgements)  
-17. [Certificate of Verification](#certificate-of-verification)
-
