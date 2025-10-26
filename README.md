@@ -36,80 +36,23 @@ git clone https://github.com/mansuraliyi44-maker/Trustfound.git
 cd Trustfound
 npm install
 npm start
+## 📑 **TABLE OF CONTENTS (Clickable Links)**
 
-📑 TABLE OF CONTENTS
-
-1. Introduction – CharityTrust Overview
-
-
-2. Problem Statement
-
-
-3. Proposed Solution
-
-
-4. Key Features
-
-
-5. Technology Stack
-
-
-6. Use Cases
-
-
-7. Benefits
-
-
-8. Future Scope
-
-
-9. Why Hedera?
-
-
-10. Terms & Conditions
-
-
-11. Privacy Policy
-
-
-12. Governance & Compliance
-
-
-13. Community Governance
-
-
-14. Independent Auditing
-
-
-15. CAC Registration Status
-
-
-16. Frequently Asked Questions (FAQ)
-
-
-17. Mission & Vision
-
-
-18. Why Trustfound?
-
-
-19. Impact Metrics (KPIs)
-
-
-20. Roadmap & Timeline
-
-
-21. Nigeria Charity Context – Problem Research & Data
-
-
-22. Trustfound Solutions
-
-
-23. Expected Impact
-
-
-24. References
-
-
-25. Hedera Certification
+1. [Introduction](#introduction)  
+2. [Problem Statement](#problem-statement)  
+3. [Solution Overview](#solution-overview)  
+4. [Why TrustFound?](#why-trustfound)  
+5. [Architecture & Technology Stack](#architecture--technology-stack)  
+6. [Core Features](#core-features)  
+7. [Future of TrustFound Charity](#future-of-trustfound-charity)  
+8. [Roadmap & Timeline](#roadmap--timeline)  
+9. [Impact Metrics (KPIs)](#impact-metrics-kpis)  
+10. [Team & Roles](#team--roles)  
+11. [Partnerships & Collaborations](#partnerships--collaborations)  
+12. [Smart Contract Transparency](#smart-contract-transparency)  
+13. [Donation Wallets & Token Support](#donation-wallets--token-support)  
+14. [DAO Governance & Community](#dao-governance--community)  
+15. [Contact & Verification](#contact--verification)  
+16. [Acknowledgements](#acknowledgements)  
+17. [Certificate of Verification](#certificate-of-verification)
 
