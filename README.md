@@ -36,3 +36,65 @@ git clone https://github.com/mansuraliyi44-maker/Trustfound.git
 cd Trustfound
 npm install
 npm start
+ Table of Contents
+
+1. ##Overview – TrustFound Charity Project
+
+
+2. ##Problem Statement
+
+
+3. ##Proposed Solution
+
+
+4. ##Key Features
+
+
+5. ##Technology Stack
+
+
+6. ##Use Cases
+
+
+7. ##Benefits
+
+
+8. ##Future Scope
+
+
+9. ##Why Hedera?
+
+
+10. ##Terms & Conditions
+
+
+11. ##Privacy Policy
+
+
+12. ##Governance & Compliance
+
+
+13. ##Frequently Asked Questions (FAQ)
+
+
+14. ##Mission & Vision
+
+
+15. ##Why TrustFound?
+
+
+16. ##Impact Metrics (KPIs)
+
+
+17. ##Roadmap & Timeline
+
+
+18. ##TrustFound Charity – Project Write-up
+
+
+19. ##Hedera Certification
+
+
+20. ##References
+
+
