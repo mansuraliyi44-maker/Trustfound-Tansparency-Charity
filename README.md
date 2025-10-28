@@ -68,33 +68,9 @@ npm start
 10. ##Terms & Conditions
 
 
-11. ##Privacy Policy
+11. ###Privacy Policy
 
 
-12. ##Governance & Compliance
 
-
-13. ##Frequently Asked Questions (FAQ)
-
-
-14. ##Mission & Vision
-
-
-15. ##Why TrustFound?
-
-
-16. ##Impact Metrics (KPIs)
-
-
-17. ##Roadmap & Timeline
-
-
-18. ##TrustFound Charity – Project Write-up
-
-
-19. ##Hedera Certification
-
-
-20. ##References
 
 
